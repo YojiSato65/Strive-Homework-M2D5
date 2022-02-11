@@ -1,0 +1,13 @@
+h4 {
+    color: white;
+}
+
+.card-img-top {
+    position: relative;
+}
+
+.netflix-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
